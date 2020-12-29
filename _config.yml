@@ -1,0 +1,23 @@
+# Dependencies
+markdown:    kramdown
+highlighter: rouge
+
+# Permalinks
+permalink:   pretty
+
+# Setup
+title:       KCL Carpentries
+tagline:     ''
+description: ''
+url:         http://KCL-Carpentries.github.io/
+baseurl:     /
+lastmod:    '20201229'
+
+author:
+  name:      'KCL Carpentries'
+  url:       http://KCL-Carpentries.github.io/
+  email:     carpentries@kcl.ac.uk
+  github:    KCL-Carpentries
+
+pagination:
+  indexpage: 'blog'

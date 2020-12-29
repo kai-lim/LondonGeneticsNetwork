@@ -1,0 +1,61 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+          {{ site.title }}
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+
+	<nav class="sidebar-nav">
+	  {% comment %}
+	    The code below generates a sidebar nav of selected pages in the given oder
+	  {% endcomment %}
+	  
+	 <a class="sidebar-nav-item active" href="{{ "/" | relative_url }}index.html">About</a>
+	 <a class="sidebar-nav-item active" href="{{ "/" | relative_url }}team/">Meet the team</a>
+ 	 <a class="sidebar-nav-item active" href="{{ "/" | relative_url }}courses/">Our Courses</a>
+	 <a class="sidebar-nav-item active" href="{{ "/" | relative_url }}feedback/">Our Feedback</a>
+	 <a class="sidebar-nav-item active" href="{{ "/" | relative_url }}futureworkshops/">Future Workshops</a>
+	 <a class="sidebar-nav-item active" href="{{ "/" | relative_url }}pastworkshops/">Past Workshops</a>
+	 
+	</nav>
+	
+		<nav class="contact-list">
+		  {% if site.author.email %}
+		      <a href="mailto:{{ site.author.email }}">
+		        <i class="far fa-envelope ai-2x"></i>
+		      </a> &nbsp;&nbsp;
+		  {% endif %}
+
+		  {% if site.author.github %}
+			<a href="https://github.com/{{ site.author.github }}">
+			  <i class="fab fa-github ai-2x"></i>
+			</a> &nbsp;&nbsp;
+		  {% endif %}
+
+		  {% if site.author.twitter %}
+			<a href="https://twitter.com/{{ site.author.twitter }}">
+			  <i class="fab fa-twitter ai-2x"></i>
+			</a> &nbsp;&nbsp;
+		  {% endif %}
+		  
+		  {% if site.author.orcid %}
+			<a href="https://profiles.impactstory.org/u/{{ site.author.orcid }}">
+			  <i class="ai ai-impactstory ai-2x"></i>
+			</a>
+		  {% endif %}
+		  
+		  
+		</nav>
+	 
+	 
+	 <nav class="sidebar-nav">
+	    <p class="small">Last update: {{ site.lastmod }}</p>
+	</nav>
+
+	
+	
+  </div>
+</div>
