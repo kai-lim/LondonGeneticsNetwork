@@ -5,7 +5,7 @@ title: About
 
 <br/>
 
-We are a team of volunteer instructors dedicated to provide King’s College London research students and staff with basic coding and data management knowledge.
+We are a team of volunteer [qualified Carpentries instructors](https://carpentries.org/instructors/) dedicated to provide King’s College London research students and staff with basic coding and data management knowledge.
 
 To this aim, we offer regular workshops on different coding languages, and software.
 All of our lessons involve live coding, so that the attendees can get hands-on experience and gain the basic understanding needed for them to keep exploring.

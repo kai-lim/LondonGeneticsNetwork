@@ -4,7 +4,7 @@ It is powered by [Jekyll](http://github.com/mojombo/jekyll) using the [Hyde them
 
 ### Contributors
 
-* Concept: [Alessia Visconti](alesssia.github.io), Flavia Flaviani, Stefania Marcotti
-* Implementation: [Alessia Visconti](alesssia.github.io)
+* Concept: [Alessia Visconti](https://alesssia.github.io), Flavia Flaviani, Stefania Marcotti
+* Implementation: [Alessia Visconti](https://alesssia.github.io)
 * Text: Stefania Marcotti
 * General support: Flavia Flaviani

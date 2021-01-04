@@ -21,7 +21,7 @@ title: Meet the team
 
 * **Job title:** Senior Lecturer
 * **Research interest** 
-	- Development biology 
+	- Developmental biology
 
 <br/>
 <br/>
@@ -39,14 +39,19 @@ title: Meet the team
 * **Job title:** Research Fellow
 * **Background:** Computer Science
 * **Research interest:** 
-	- Computational Biology & Medicine
-	- Machine Learning & Data Mining
-	- Scientific Software Development
+	- Computational biology & medicine
+	- Machine learning & data mining
+	- Research software engineering
 * **Taught workshops:**
-	- [SWC/LC Workshop: Introduction to Python](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
-	- SWC Workshop: Unix shell and Git
-	- [SWC Workshop: Unix shell and Git](https://alesssia.github.io/2020-11-180-KCL/)
-
+	- SWC/LC Workshop: Introduction to Python
+		- [January 9-10, 2020](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
+	- SWC-like Workshop: 
+		- Unix shell, Summer 2020
+		- [November 2020](https://alesssia.github.io/2020-11-180-KCL/)
+	- SWC-like Workshop: Git
+		- Summer 2020
+		- [Winter 2020](https://alesssia.github.io/2020-11-180-KCL/)
+	
 <br/>
 
 ### Flavia Flaviani
@@ -56,14 +61,18 @@ title: Meet the team
 * **Job title:** Senior bioinformatician
 * **Background:** Bioinformatics and bio-ecology
 * **Research interest:** 
-	- Bioinformatics  & Computational Biology 
+	- Bioinformatics & computational biology 
 	- Genomics 
 	- Microbial ecology 
-	- NGS & Translational medicine
+	- NGS & translational medicine
 * **Taught workshops:**
-	- SWC Workshop: Unix shell and Git
-	- [SWC Workshop: Unix shell and Git](https://alesssia.github.io/2020-11-180-KCL/)
-
+	- SWC-like Workshop: 
+		- Unix shell, Summer 2020
+		- [November 2020](https://alesssia.github.io/2020-11-180-KCL/)
+	- SWC-like Workshop: Git
+		- Summer 2020
+		- [Winter 2020](https://alesssia.github.io/2020-11-180-KCL/)
+	
 <br/>
 
 ### Stefania Marcotti
@@ -77,7 +86,12 @@ title: Meet the team
 	- Computer vision
 	- Research software engineering
 * **Taught workshops:**
-	- [SWC/LC Workshop: Introduction to Python](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
-	- SWC Workshop: Unix shell and Git
-	- [SWC Workshop: Unix shell and Git](https://alesssia.github.io/2020-11-180-KCL/)
+	- SWC/LC Workshop: Introduction to Python
+		- [January 9-10, 2020](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
+	- SWC-like Workshop: 
+		- Unix shell, Summer 2020
+		- [November 2020](https://alesssia.github.io/2020-11-180-KCL/)
+	- SWC-like Workshop: Git
+		- Summer 2020
+		- [Winter 2020](https://alesssia.github.io/2020-11-180-KCL/)
 
