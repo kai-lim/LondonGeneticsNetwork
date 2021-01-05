@@ -46,11 +46,11 @@ title: Meet the team
 	- SWC/LC Workshop: Introduction to Python
 		- [January 9-10, 2020](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
 	- SWC-like Workshop: 
-		- Unix shell, Summer 2020
+		- Summer 2020
 		- [November 2020](https://alesssia.github.io/2020-11-180-KCL/)
 	- SWC-like Workshop: Git
 		- Summer 2020
-		- [Winter 2020](https://alesssia.github.io/2020-11-180-KCL/)
+		- [December 2020](https://alesssia.github.io/2020-11-180-KCL/)
 	
 <br/>
 
@@ -67,11 +67,11 @@ title: Meet the team
 	- NGS & translational medicine
 * **Taught workshops:**
 	- SWC-like Workshop: 
-		- Unix shell, Summer 2020
+		- Summer 2020
 		- [November 2020](https://alesssia.github.io/2020-11-180-KCL/)
 	- SWC-like Workshop: Git
 		- Summer 2020
-		- [Winter 2020](https://alesssia.github.io/2020-11-180-KCL/)
+		- [December 2020](https://alesssia.github.io/2020-11-180-KCL/)
 	
 <br/>
 
@@ -89,9 +89,9 @@ title: Meet the team
 	- SWC/LC Workshop: Introduction to Python
 		- [January 9-10, 2020](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
 	- SWC-like Workshop: 
-		- Unix shell, Summer 2020
+		- Summer 2020
 		- [November 2020](https://alesssia.github.io/2020-11-180-KCL/)
 	- SWC-like Workshop: Git
 		- Summer 2020
-		- [Winter 2020](https://alesssia.github.io/2020-11-180-KCL/)
+		- [December 2020](https://alesssia.github.io/2020-11-180-KCL/)
 

@@ -13,7 +13,7 @@ Here is some of the feedback we received for our past workshops:
 * It covered a lot and nice to see how things can build on each other with the exercises
 * Very clear and didn't get bored
 * Really good content
-* Great presentation. Really like the dynamic way you work guys. The main instructor and the helpers. Thank you! 
+* Great presentation. Really like the dynamic way you work guys. The main instructor and the helpers. 
 * Everything was explained clearly. Instructors did a good job of making sure everyone was following.
 * Great workshop, really useful and will make sure to use it a lot in the future
 * The content and methodology are beginner friendly
