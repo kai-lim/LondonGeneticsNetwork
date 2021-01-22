@@ -94,4 +94,16 @@ title: Meet the team
 	- SWC-like Workshop: Git
 		- Summer 2020
 		- [December 2020](https://alesssia.github.io/2020-11-180-KCL/)
+		
+
+### James Cain
+
+![James Profile Pic]({{ "/" | relative_url }}assets/james.jpg)
+
+* **Job title:** PhD Student 
+* **Background:** Epigenetic Regulation  
+* **Research interest:** 
+	- Epigenomics & NGS
+	- Bioinformatics 
+	- Gene Regulation 
 
