@@ -6,6 +6,7 @@ title: Meet the team
   [[Alessia Visconti]](#alessia-visconti)
 | [[Fiona Wardle]](#fiona-wardle)
 | [[Flavia Flaviani]](#flavia-flaviani)
+| [[James Cain]](#james-cain)
 | [[Stefania Marcotti]](#stefania-marcotti)
 
 <br/>
@@ -96,9 +97,15 @@ title: Meet the team
 		- [December 2020](https://alesssia.github.io/2020-11-180-KCL/)
 		
 
+<br/>
+<br/>
+
+
+## KCL Carpentries Helpers
+
 ### James Cain
 
-![James Profile Pic]({{ "/" | relative_url }}assets/james.jpg)
+![James' profile pic]({{ "/" | relative_url }}assets/james.jpg)
 
 * **Job title:** PhD Student 
 * **Background:** Epigenetic Regulation  
