@@ -95,7 +95,23 @@ title: Meet the team
 	- SWC-like Workshop: Git
 		- Summer 2020
 		- [December 2020](https://alesssia.github.io/2020-11-180-KCL/)
-		
+
+<br/>
+
+### Neil Jakeman
+
+![Neil's profile pic]({{ "/" | relative_url }}assets/neil-jakeman.jpg)
+
+* **Job title:** Senior Research Software Analyst
+* **Background:** Geographic Information Systems and 3D visualisation
+* **Research interest:** 
+	- Cultural Heritage visualisation
+	- Research software engineering
+* **Taught workshops:**
+	- SWC/LC Workshop: Open Refine
+		- [January 9-10, 2020](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
+
+
 
 <br/>
 <br/>
