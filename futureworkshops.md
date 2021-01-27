@@ -17,11 +17,11 @@ In the meantime, have a look at some of the [feedback we received]({{ "/" | rela
 
 ### LC-like Workshop: Introduction to OpenRefine
 
-* **Website**: TBA
+* [**Website**](https://swc-kcl-london-03-2021.github.io/2021-03-03-KCL-OpenRefine/) 
 * **Date:** March 3, 2021 (online)
-* **Time:** 2-5 pm
+* **Time:** 9:30 am - 1:30 pm
 * **Topic Covered:** OpenRefine
-* **Sign up**: TBA
+* **Sign up**: [Eventbrite](https://www.eventbrite.co.uk/e/openrefine-data-cleaning-and-transformation-tickets-138258090671)
 
 ### SWC-like Workshop: Introduction to the Unix Shell
 
