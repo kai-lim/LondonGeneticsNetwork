@@ -8,6 +8,7 @@ title: Meet the team
 | [[Flavia Flaviani]](#flavia-flaviani)
 | [[James Cain]](#james-cain)
 | [[Stefania Marcotti]](#stefania-marcotti)
+| [[Neil Jakeman]](#neil-jakeman)
 
 <br/>
 
