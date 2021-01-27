@@ -85,10 +85,10 @@ title: Meet the team
 * **Job title:** Senior Research Software Analyst
 * **Background:** Geographic Information Systems and 3D visualisation
 * **Research interest:** 
-	- Cultural Heritage visualisation
+	- Cultural heritage visualisation
 	- Research software engineering
 * **Taught workshops:**
-	- SWC/LC Workshop: Open Refine
+	- SWC/LC Workshop: Introduction to Python
 		- [January 9-10, 2020](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
 
 
@@ -116,7 +116,7 @@ title: Meet the team
 		- [December 2020](https://alesssia.github.io/2020-11-180-KCL/)
 
 <br/>
-
+<br/>
 
 ## KCL Carpentries Helpers
 
