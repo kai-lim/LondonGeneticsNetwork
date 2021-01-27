@@ -7,8 +7,9 @@ title: Meet the team
 | [[Fiona Wardle]](#fiona-wardle)
 | [[Flavia Flaviani]](#flavia-flaviani)
 | [[James Cain]](#james-cain)
-| [[Stefania Marcotti]](#stefania-marcotti)
 | [[Neil Jakeman]](#neil-jakeman)
+| [[Stefania Marcotti]](#stefania-marcotti)
+
 
 <br/>
 
@@ -77,6 +78,23 @@ title: Meet the team
 	
 <br/>
 
+### Neil Jakeman
+
+![Neil's profile pic]({{ "/" | relative_url }}assets/neil-jakeman.jpg)
+
+* **Job title:** Senior Research Software Analyst
+* **Background:** Geographic Information Systems and 3D visualisation
+* **Research interest:** 
+	- Cultural Heritage visualisation
+	- Research software engineering
+* **Taught workshops:**
+	- SWC/LC Workshop: Open Refine
+		- [January 9-10, 2020](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
+
+
+
+<br/>
+
 ### Stefania Marcotti
 
 ![Stefania's profile pic]({{ "/" | relative_url }}assets/stefania.jpeg)
@@ -97,24 +115,6 @@ title: Meet the team
 		- Summer 2020
 		- [December 2020](https://alesssia.github.io/2020-11-180-KCL/)
 
-<br/>
-
-### Neil Jakeman
-
-![Neil's profile pic]({{ "/" | relative_url }}assets/neil-jakeman.jpg)
-
-* **Job title:** Senior Research Software Analyst
-* **Background:** Geographic Information Systems and 3D visualisation
-* **Research interest:** 
-	- Cultural Heritage visualisation
-	- Research software engineering
-* **Taught workshops:**
-	- SWC/LC Workshop: Open Refine
-		- [January 9-10, 2020](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
-
-
-
-<br/>
 <br/>
 
 
