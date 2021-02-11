@@ -131,3 +131,15 @@ title: Meet the team
 	- Bioinformatics 
 	- Gene Regulation 
 
+
+### Kai Lim
+
+![Kai's profile pic]({{ "/" | relative_url }}assets/Kai_square_smaller.jpg)
+
+* **Job title:** PhD Student 
+* **Background:** Psychiatry Genomics  
+* **Research interest:** 
+	- Mental health
+	- Statistical genetics/genomics
+	- Machine learning
+
