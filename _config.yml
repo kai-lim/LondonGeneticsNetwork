@@ -6,16 +6,16 @@ highlighter: rouge
 permalink:   pretty
 
 # Setup
-title:       KCL Carpentries
+title:       London Genetics Network
 tagline:     ''
 description: ''
-url:         http://KCL-Carpentries.github.io/
+url:         https://kai-lim.github.io/London_GenNet/
 baseurl:     /
-lastmod:    '20210211'
+lastmod:    '20210311'
 
 author:
-  name:      'KCL Carpentries'
-  url:       http://KCL-Carpentries.github.io/
+  name:      'London Genetics Network'
+  url:       https://kai-lim.github.io/London_GenNet/
   email:     carpentries@kcl.ac.uk
   github:    KCL-Carpentries
 
