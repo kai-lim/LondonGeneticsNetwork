@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our courses
+title: People
 ---
 
   [[Git]](#git)

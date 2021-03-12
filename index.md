@@ -5,18 +5,14 @@ title: About
 
 <br/>
 
-We are a team of volunteer [qualified Carpentries instructors](https://carpentries.org/instructors/) dedicated to provide King’s College London research students and staff with basic coding and data management knowledge.
+The London Genetics Network is a new network founded by Professor Angelica Ronald (Birkbeck, GEL lab co-director) and Dr Karoline Kuchenbaecker (UCL). The Network is funded by the Genetics Society and is designed for researchers working in human genetic research in London and the surrounding areas. The Network’s aims are: 
 
-To this aim, we offer regular workshops on different coding languages, and software.
-All of our lessons involve live coding, so that the attendees can get hands-on experience and gain the basic understanding needed for them to keep exploring.
+* to increase London-based collaboration between researchers interested in human genetics
+* to leverage London’s expertise by fostering knowledge exchange 
+* to develop practical and online resources for training and development in statistical and computational genetics
+* to support early career researchers through a range of new opportunities and research prizes
 
-Our lessons are based on the material offered by the [Carpentries](https://carpentries.org/), a volunteer project dedicated to teaching basic computing skills to researchers.
 
-To get to know the team, please click [here](team/)!
-Find here a list of [past workshops](pastworkshops/), and have a look at some of the [feedback we received](feedback/), and at the the [material we cover](courses/).
-Would you like to join one of our [future workshops](futureworkshops/)? Find more details [here](futureworkshops/).
-
-To get in touch, please send us an email to [carpentries@kcl.ac.uk](mailto:carpentries@kcl.ac.uk).
-
+Follow us on twitter: [@LdnGeneNet](https://twitter.com/LdnGeneNet).
 
 
