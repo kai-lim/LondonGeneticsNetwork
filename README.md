@@ -8,3 +8,6 @@ It is powered by [Jekyll](http://github.com/mojombo/jekyll) using the [Hyde them
 * Implementation: [Alessia Visconti](https://alesssia.github.io)
 * Text: Stefania Marcotti
 * General support: Flavia Flaviani
+
+
+Reference: https://jashmehta3300.medium.com/how-to-make-a-blog-using-hyde-jekyll-and-host-it-on-github-pages-42123c239b8 
