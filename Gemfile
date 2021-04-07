@@ -12,9 +12,11 @@ ruby RUBY_VERSION
 # gem "jekyll", "3.4.3"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "github-pages", group: :jekyll_plugins
+group :jekyll_plugins do
+    gem 'jekyll-twitter-plugin'
+    gem "github-pages"
+  end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jekyll-paginate-v2'
-gem 'jekyll-twitter-plugin'
