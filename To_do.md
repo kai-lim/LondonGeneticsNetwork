@@ -10,4 +10,4 @@
 [/] look for volunteers, want to join the network. 
 [/] want to join the mailing list
 [/] Insert Twitter feed
-[] Make a form to sign up 
+[/] Make a form to sign up 

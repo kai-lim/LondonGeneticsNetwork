@@ -27,7 +27,7 @@ The London Genetics Network is a new network founded by Professor Angelica Ronal
 
 To subscribe to our mailing list, click on [this link](https://lists.bbk.ac.uk/mailman/listinfo/londongeneticsnetwork).
 
-If you have any proposed events and are interested to volunteer with us, kindly drop us an email!
+If you have any proposed events and/or are interested to volunteer with us, kindly drop us an email!
 
 Follow us on twitter: [@LdnGeneNet](https://twitter.com/LdnGeneNet).
 

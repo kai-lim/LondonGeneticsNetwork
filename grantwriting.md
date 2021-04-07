@@ -11,8 +11,12 @@ Prof Thalia Eley has been providing grant writing training at the Institute of P
 
 ## Speaker's profile
 ### Professor Thalia Eley
-![writing pic]({{ "/" | relative_url }}assets/thalia.png)
-- Professor of Developmental Behavioural Genetics, Deputy Head of Department, SGDP Centre, IoPPPN, KCL.
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/thalia.png" width="180" style="margin: 0px 0px" />
+  </p>
+
+###### Professor of Developmental Behavioural Genetics, Deputy Head of Department <br>
+Social, Genetic and Developmental Psychiatry Centre, Institute of Psychiatry, Psychology and Neuroscience, King’s College London
 
 
 

@@ -2,9 +2,10 @@
 layout: page
 title: Methods Meetings
 ---
-<br>
+<p align="center">
+  <img src="{{ "/" | relative_url }}assets/meeting-2.jpg" width="380" style="margin: 0px 20px"/>
+  </p>
 
-![Meeting]({{ "/" | relative_url }}assets/meeting-2.jpg) 
 
 The London Genetics Network (LGN) Methods Meetings are a monthly meeting in which newly developed and commonly used methodology in statistical genetics will be presented and discussed. The Methods Meetings will be a friendly and supportive opportunity for researchers to better understand and use statistical genetic methods and software, aimed to support complete beginners as well as experts. The meetings will also help connect researchers using similar methodology within and across institutions, helping to establish a useful research community.
 
@@ -14,17 +15,27 @@ The Methods Meetings will be held online at **3pm on the first Tuesday of every 
 
 ## Organisers
 
+
 ### Dr Oliver Pain
-![Ollie's pic]({{ "/" | relative_url }}assets/Ollie.jpg) 
-- Job title: Postdoctoral research associate
-- Affiliation:  King’s College London
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/Ollie-2.jpg" width="180" style="margin: 0px 20px"/>
+  </p>
+
+###### Postdoctoral research associate <br>
+Social, Genetic and Developmental Psychiatry Centre, Institute of Psychiatry, Psychology and Neuroscience, King’s College London
 
 ### Dr Kirstin Purves
-![Kirstin's pic]({{ "/" | relative_url }}assets/Kirstin.jpg) 
-- Job title: Postdoctoral research associate
-- Affiliation:  King’s College London
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/Kirstin-2.jpg" width="180" style="margin: 0px 20px" />
+  </p>
+
+###### Postdoctoral research associate <br>
+Social, Genetic and Developmental Psychiatry Centre, Institute of Psychiatry, Psychology and Neuroscience, King’s College London
 
 ### Dr Jonathan Coleman
-![Joni's pic]({{ "/" | relative_url }}assets/Joni.jpg) 
-- Job title: Lecturer in statistical genetics
-- Affiliation:  King’s College London
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/Joni-2.jpg" width="180" style="margin: 0px 20px" />
+  </p>
+
+###### Lecturer in statistical genetics <br>
+Social, Genetic and Developmental Psychiatry Centre, Institute of Psychiatry, Psychology and Neuroscience, King’s College London
