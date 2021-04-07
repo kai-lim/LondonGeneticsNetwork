@@ -21,3 +21,6 @@ author:
 
 pagination:
   indexpage: 'blog'
+
+# Plugins
+plugins: ['jekyll-twitter-plugin']
