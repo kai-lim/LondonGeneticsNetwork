@@ -27,7 +27,7 @@ The London Genetics Network is a new network founded by Professor Angelica Ronal
 
 To subscribe to our mailing list, please email the communications manager Kai Lim at: <a href="mailto:kai.lim@kcl.ac.uk">kai.lim@kcl.ac.uk</a>.
 
-If you have any proposed events and/or are interested to volunteer with us, kindly drop us an email at: <a href="mailto:londongeneticsnetwork.gmail.com">londongeneticsnetwork.gmail.com</a>.
+If you have any proposed events and/or are interested to volunteer with us, kindly drop us an email at: <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a>.
 
 Follow us on twitter: [@LdnGeneNet](https://twitter.com/LdnGeneNet).
 
