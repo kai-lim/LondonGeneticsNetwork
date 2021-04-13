@@ -37,9 +37,30 @@ The LGN peer support scheme aims to provide a platform for small group meetings 
 ---
 
 # Participation form
-Please fill in the form below if you are interested to participate in either or both of the Mentoring and Peer Support Schemes.
+Please fill in the form below if you are interested to participate in the Mentoring and/or Peer Support Schemes.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSez6nPZ-OS1frd3mbkkObhDhOI1Yn1YR4QT2SZZMh5gEZmARQ/viewform?embedded=true" width="740" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<script type="application/javascript">
+    var loadCounter = 0;
+    var loaded = function() {
+        loadCounter += 1;
+        if (loadCounter === 2) {
+            $("iframe").attr("height", "500px");
+            $(window).scrollTo(315,0)
+        }
+    }
+</script>
+
+<iframe 
+src="https://docs.google.com/forms/d/e/1FAIpQLSfz1jpUx260X7mfOWh8jxwpj1ftY1bE1XeGUpXyRShQJMl7hA/viewform?embedded=true" 
+    width="100%" 
+    height="1400px" 
+    frameborder="0" 
+    marginheight="0" 
+    marginwidth="0"
+    onload="loaded()">
+        Loading...
+</iframe>
+
 
 ## Organiser
 ### Dr Chloe Wong
