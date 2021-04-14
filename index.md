@@ -14,7 +14,7 @@ title: London Genetics Network
   <img src="{{ "/" | relative_url }}assets/LGN_logo_rescaled.jpg" width="380" />
 </p>
 
-The London Genetics Network is a new network founded by Professor Angelica Ronald (Birkbeck, GEL lab co-director) and Dr Karoline Kuchenbaecker (UCL). The Network is funded by the Genetics Society and is designed for researchers working in human genetic research in London and the surrounding areas. The Network’s aims are: 
+The London Genetics Network is funded by the Genetics Society and is designed for researchers working in human genetic research in London and the surrounding areas. The Network’s aims are: 
 
 * to increase London-based collaboration between researchers interested in human genetics
 * to leverage London’s expertise by fostering knowledge exchange 
@@ -31,5 +31,16 @@ If you have any proposed events and/or are interested to volunteer with us, kind
 
 Follow us on twitter: [@LdnGeneNet](https://twitter.com/LdnGeneNet).
 
+
+# Founders
+### Professor Angelica Ronald 
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/Angelica_Ronald.jpg" width="180" />
+  </p>
+Angelica Ronald is Professor of Psychology and Genetics at Birkbeck, University of London, and director of the Genes Environment Lifespan laboratory. She co-founded the London Genetics Network in 2020 with Dr Karoline Kuchenbaecker.
+
+
+
+## Our Twitter feed
 
 {% twitter https://twitter.com/LdnGeneNet align=center maxwidth=400 limit=3 %}
