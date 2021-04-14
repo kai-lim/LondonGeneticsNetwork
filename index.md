@@ -40,7 +40,9 @@ Follow us on twitter: [@LdnGeneNet](https://twitter.com/LdnGeneNet).
 Angelica Ronald is Professor of Psychology and Genetics at Birkbeck, University of London, and director of the Genes Environment Lifespan laboratory. She co-founded the London Genetics Network in 2020 with Dr Karoline Kuchenbaecker.
 
 
+<br> 
+<br>
 
-## Our Twitter feed
+# Our Twitter feed
 
 {% twitter https://twitter.com/LdnGeneNet align=center maxwidth=400 limit=3 %}
