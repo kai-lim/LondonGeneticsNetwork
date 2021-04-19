@@ -3,6 +3,8 @@ layout: page
 title: Mentoring and Peer Support
 ---
 
+---
+
 # Mentoring Scheme
 
 The London Genetic Network mentoring scheme aims to provide career support to early-career researchers (ECR) and mid-career researchers (MCR) within the LGN.
@@ -17,7 +19,7 @@ The London Genetic Network mentoring scheme aims to provide career support to ea
 Our scheme offers ECRs and MCRs the opportunity to be paired with an experienced researcher who can provide support with personal and professional development. Mentors act as a facilitator and sounding board to guide the mentee to navigate and discover their own direction. Examples of topics that mentors can provide support or guidance in:
 
 <p align="center">
-  <img src="{{ "/" | relative_url }}assets/Mentor_word.png" width="800" />
+  <img src="{{ "/" | relative_url }}assets/Mentor_word.png" width="80%" />
   </p>
 
 Mentor-mentee partnership pairs are encouraged to establish an agreement of communication structure that suits both parties including the frequency and format of interaction. It is the responsibility of the mentee to facilitate and maintain the partnership.
@@ -37,7 +39,7 @@ The LGN peer support scheme aims to provide a platform for small group meetings 
 ---
 
 # Participation form
-Please fill in the form below if you are interested to participate in the Mentoring and/or Peer Support Schemes.
+Please fill in the form below if you are interested to participate in the Mentoring and/or Peer Support Schemes. **Applications will close at the end of June 2021.** 
 
 <script type="application/javascript">
     var loadCounter = 0;
