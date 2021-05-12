@@ -35,11 +35,16 @@ Follow us on twitter: [@LdnGeneNet](https://twitter.com/LdnGeneNet).
 # Founders
 ### Professor Angelica Ronald 
 <p align="left">
-  <img src="{{ "/" | relative_url }}assets/Angelica_Ronald.jpg" width="180" />
+  <img src="{{ "/" | relative_url }}assets/Angelica_Ronald2.jpg" width="280" />
   </p>
 Angelica Ronald is Professor of Psychology and Genetics at Birkbeck, University of London, and director of the Genes Environment Lifespan laboratory. She co-founded the London Genetics Network in 2020 with Dr Karoline Kuchenbaecker.
 
-
+### Dr. Karoline Kuchenbaecker
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/Karoline2.jpg" width="280" />
+  </p>
+Karoline Kuchenbaecker is [Associate Professor at University College London](https://www.uclhumgen.com/people/karoline/). Her group studies the genetics of complex traits in ancestrally diverse populations.
+ 
 <br> 
 <br>
 
