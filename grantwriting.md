@@ -49,6 +49,10 @@ title: Grant Writing Workshop
 
 
 Prof Thalia Eley has been providing grant writing training at the Institute of Psychiatry, Psychology & Neuroscience, KCL, for over a decade, and sits/has sat on numerous funding panels, including the MRC, Wellcome Trust and MQ. In this lecture, she will share tips about how to plan and write a grant application.
+<br><br>
 
+## How to attend 
+This is a virtual workshop for London Genetics Network members. 
 
+To join the network and gain access to the meeting link for the workshop, please email our communications manager Kai Lim at <a href="mailto:kai.lim@kcl.ac.uk">kai.lim@kcl.ac.uk</a>.
 
