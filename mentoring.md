@@ -39,7 +39,7 @@ The LGN peer support scheme aims to provide a platform for small group meetings 
 ---
 
 # Participation form
-Please fill in the form below if you are interested to participate in the Mentoring and/or Peer Support Schemes. **Applications will close at the end of June 2021.** 
+Please fill in the form below if you are interested to participate in the Mentoring and/or Peer Support Schemes. **Applications will close on 16 July 2021.** 
 
 <script type="application/javascript">
     var loadCounter = 0;
