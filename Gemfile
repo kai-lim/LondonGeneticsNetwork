@@ -21,10 +21,3 @@ group :jekyll_plugins do
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jekyll-paginate-v2'
 
-
-rbenv uninstall 3.0.0
-rbenv install 2.7.3
-rbenv global 2.7.
-echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
-echo 'export PATH="/Users/kai/.rbenv/bin:$PATH"' >> ~/.bash_profile
-echo 'export PATH="$HOME/.rbenv/shims:$PATH"' >> ~/.bash_profile
