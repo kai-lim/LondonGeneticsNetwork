@@ -21,6 +21,6 @@ If there's someone you've worked with in the past that you think we should conta
   </p>
 
 #### Head of Genetics Research Centre and Reader in Genomic Medicine
-Molecular and Clinical Sciences Institute
+Molecular and Clinical Sciences Institute <br>
 St George’s, University of London <br>
 Email: [y.jamshidi@sgul.ac.uk](mailto:y.jamshidi@sgul.ac.uk)
