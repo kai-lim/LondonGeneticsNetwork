@@ -45,9 +45,16 @@ Angelica Ronald is Professor of Psychology and Genetics at Birkbeck, University 
   </p>
 Karoline Kuchenbaecker is [Associate Professor at University College London](https://www.uclhumgen.com/people/karoline/). Her group studies the genetics of complex traits in ancestrally diverse populations.
  
+
+# Communications Manager
+### Kai Xiang Lim
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/Kai_square.jpeg" width="280" />
+  </p>
+  Kai is a PhD student at King's College London. He studies the aetiology of self-harm using genetically informed methods. 
+
 <br> 
-<br>
 
 # Our Twitter feed
 
-{% twitter https://twitter.com/LdnGeneNet align=center maxwidth=400 limit=3 %}
+{% twitter https://twitter.com/LdnGeneNet align=center maxwidth=500 limit=3 %}
