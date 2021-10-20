@@ -24,19 +24,7 @@ Meetings with invited speakers: [https://osf.io/4cqwf/](https://osf.io/4cqwf/)
 
 <br>
 
-## July 2021 Meeting
-### Tuesday 6th July at 15.00. 
 
-This meeting will be led by LGN members Dr Emma Meaburn and Dr Manuela Tan, who will be hosting a Q&A session on Whole Genome and Whole Exome sequencing with Dr Hilary Martin and Dr Aleksejs Sazonovs from the Sanger Institute.
- 
-The broad theme for the session is lessons learned using whole genome/whole exome approaches and will cover a range of theoretical and practical topics including conception and interpretation of WES/WGS studies for rare and common disorders, why you might choose WES over WGS, and common pitfalls and mistakes in analyses.
- 
-Please join us for a helpful and informative session for anyone who has ever thought about using whole genome approaches, or is just getting started with them.
- 
-Sign up to the event here:
-[https://www.eventbrite.co.uk/e/161523060823](https://www.eventbrite.co.uk/e/161523060823)
-<br>
-<br>
 
 ## Organisers
 
