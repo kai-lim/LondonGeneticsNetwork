@@ -92,7 +92,9 @@ g.	A short synopsis of no more than 3 sentences
 Feel free to use a different software to record your video if you prefer. However, please make sure that the video is in mp4 format.
 
 Please send your video poster to <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a>. 
- 
+
+For the poster competition, posters will be judged by an independent poster committee of London-based human geneticists. 
+
 Poster submission deadline: **Tuesday 23rd November 2021 at 23:59pm**
 
 
