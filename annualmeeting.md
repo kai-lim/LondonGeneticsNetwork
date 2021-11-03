@@ -52,7 +52,7 @@ The London Genetics Network invites poster presentations for the Annual Meeting 
   <img src="{{ "/" | relative_url }}assets/3_Prizes.jpg" width="100%" style="margin: 0px 0px"/>
   </p>
 
-### Instructions on how to record your video poster
+## Instructions on how to record your video poster
  
 Step 1 – Prepare your poster using Powerpoint. We recommend a single slide
 with background, methods, results and discussion sections. 
@@ -97,7 +97,7 @@ Poster submission deadline: **Tuesday 23rd November 2021 at 23:59pm**
 
 
 
-### Instructions on application for carer award:
+## Instructions on application for carer award:
 
  Eligibility criteria:
 
@@ -126,5 +126,6 @@ We look forward to seeing you at the online meeting!
 London Genetics Network is a Special Interest group funded by [The Genetics Society](https://genetics.org.uk)
 
 <p align="center">
-  <img src="{{ "/" | relative_url }}assets/GS_logo_rescaled.png" width="100%" style="margin: 0px 0px"/>
-  </p>
+  <img src="{{ "/" | relative_url }}assets/GS_logo_rescaled.png" width="380" /> <br><br><br>
+  <img src="{{ "/" | relative_url }}assets/LGN_logo_rescaled.jpg" width="380" />
+</p>
