@@ -123,6 +123,15 @@ Carer awards application deadline: **Friday 26th November 2021 at 12:00pm**
  
 We look forward to seeing you at the online meeting! 
 
+# Early Career Researcher Rep
+## Dr Ryan Arathimos
+
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/ryan_cropped.jpeg" width="180" />
+  </p>
+
+Dr Ryan Arathimos is a postdoctoral researcher at King's College London. His research involves using genomics to investigate the effects of molecular phenotypes on psychiatric diseases such as depression and bipolar disorder.
+
 # Sponsor
 
 London Genetics Network is a Special Interest group funded by [The Genetics Society](https://genetics.org.uk)
