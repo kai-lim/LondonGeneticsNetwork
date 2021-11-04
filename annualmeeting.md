@@ -123,14 +123,34 @@ Carer awards application deadline: **Friday 26th November 2021 at 12:00pm**
  
 We look forward to seeing you at the online meeting! 
 
-# Early Career Researcher Rep
-## Dr Ryan Arathimos
+# Organising committee
+### Dr Ryan Arathimos - Early Career Researcher Rep
 
 <p align="left">
   <img src="{{ "/" | relative_url }}assets/ryan_cropped.jpeg" width="180" />
   </p>
 
 Dr Ryan Arathimos is a postdoctoral researcher at King's College London. His research involves using genomics to investigate the effects of molecular phenotypes on psychiatric diseases such as depression and bipolar disorder.
+
+### Professor Angelica Ronald - Founder of London Genetics Network
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/Angelica_Ronald2.jpg" width="180" />
+  </p>
+Angelica Ronald is Professor of Psychology and Genetics at Birkbeck, University of London, and director of the Genes Environment Lifespan laboratory. She co-founded the London Genetics Network in 2020 with Dr Karoline Kuchenbaecker.
+
+### Professor Karoline Kuchenbaecker - Founder of London Genetics Network
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/Karoline2.jpg" width="180" />
+  </p>
+Karoline Kuchenbaecker is [Associate Professor at University College London](https://www.uclhumgen.com/people/karoline/). Her group studies the genetics of complex traits in ancestrally diverse populations.
+ 
+
+### Kai Xiang Lim - Communications Manager
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/Kai_square.jpeg" width="180" />
+  </p>
+  Kai is a PhD student at King's College London. He studies the aetiology of self-harm using genetically informed methods. 
+
 
 # Sponsor
 
