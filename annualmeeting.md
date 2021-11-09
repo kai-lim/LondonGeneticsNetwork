@@ -158,5 +158,5 @@ London Genetics Network is a Special Interest group funded by [The Genetics Soci
 
 <p align="center">
   <img src="{{ "/" | relative_url }}assets/GS_logo_rescaled.png" width="380" /> <br><br><br>
-  <img src="{{ "/" | relative_url }}assets/LGN_logo_rescaled.jpg" width="380" />
+  <img src="{{ "/" | relative_url }}assets/LGNLogo_new.jpg" width="380" />
 </p>

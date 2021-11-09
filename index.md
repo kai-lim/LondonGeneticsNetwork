@@ -11,7 +11,7 @@ title: London Genetics Network
   <br>
 <p align="center">
   <img src="{{ "/" | relative_url }}assets/GS_logo_rescaled.png" width="380" /> <br><br><br>
-  <img src="{{ "/" | relative_url }}assets/LGN_logo_rescaled.jpg" width="380" />
+  <img src="{{ "/" | relative_url }}assets/LGNLogo_new.jpg" width="380" />
 </p>
 
 The London Genetics Network is funded by the Genetics Society and is designed for researchers working in human genetic research in London and the surrounding areas. The Network’s aims are: 

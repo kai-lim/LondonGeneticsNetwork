@@ -46,7 +46,7 @@ Please fill in the form below if you are interested to participate in the Mentor
     var loaded = function() {
         loadCounter += 1;
         if (loadCounter === 2) {
-            $("iframe").attr("height", "500px");
+            $("iframe").attr("height", "50px");
             $(window).scrollTo(315,0)
         }
     }
@@ -55,7 +55,7 @@ Please fill in the form below if you are interested to participate in the Mentor
 <iframe 
 src="https://docs.google.com/forms/d/e/1FAIpQLSfz1jpUx260X7mfOWh8jxwpj1ftY1bE1XeGUpXyRShQJMl7hA/viewform?embedded=true" 
     width="100%" 
-    height="1400px" 
+    height="300px" 
     frameborder="0" 
     marginheight="0" 
     marginwidth="0"
