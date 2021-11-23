@@ -15,7 +15,7 @@ Registration is now open for the London Genetics Network annual meeting on Frida
 
 We are delighted to announce an amazing schedule of outstanding speakers from London institutions (see below)
 
-After the meeting, we will have in-person social after the meeting at Granary square, King's Cross 4-6.30pm
+After the meeting, we will have in-person social after the meeting at [UCL main Building, North Cloisters](http://www.ucl.ac.uk/maps/north-cloisters) 4-6.30pm
 
 
 
@@ -24,22 +24,24 @@ After the meeting, we will have in-person social after the meeting at Granary sq
 
 # Schedule on Friday December 3rd 2021
 
-| Time          	| Agenda                                                                                                                                                   	|
-|---------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| 9.30-9.45     	| Welcome and introduction <br>                                                                                                                            	|
-| 9.45-10.30    	| **KEYNOTE - Professor Gudrun Moore (UCL) <br> The Baby Bio Bank: An international resource for genetic research into common pregnancy complications.**   	|
-| *10.30-11.00* 	| *ONLINE NETWORKING & COFFEE BREAK*                                                                                                                       	|
-| 11.00-11.20   	| Dr Qinqin Huang (Sanger) <br> Transferability of genetic loci and polygenic scores for cardiometabolic traits in British Pakistanis and Bangladeshis     	|
-| 11.20-11.40   	| Dr Anna Gui (Birkbeck) <br> Focusing on infancy in behavioural genetics                                                                                  	|
-| 11.40-12.00   	| Dr Wikus Barkhuizen (UCL) <br> Intergenerational transmission of childhood symptoms of ADHD in the Norwegian Mother, Father and Child Cohort             	|
-| 12.00-12.20   	| Dr Kaili Rimfeld (KCL) <br> Genetics of intelligence                                                                                                     	|
-| 12.20-12.50   	| *LUNCH & ONLINE POSTER SESSION*                                                                                                                          	|
-| 12.50-1.35    	| **KEYNOTE - Dr Segun Fatumo (LSHTM) <br> African genome resource for novel gene discovery and polygenic prediction**                                     	|
-| 1.35-2.00     	| Dr Yalda Jamshidi (St Georges) <br> Disease gene identification in consanguineous populations from the Middle East                                       	|
-| 2.00-2.25     	| Dr Jonathan Coleman (KCL) <br> Considerations for psychiatric phenotyping in large-scale genetic cohort                                                  	|
-| 2.25-2.50     	| Dr Greg Findlay (Crick) <br> Assaying all Possible Variants with Saturation Genome Editing                                                               	|
-| 3.00-3.20     	| ECR Poster Awards (independent poster judging committee)                                                                                                 	|
-| 3.20-3.30     	| Closing remarks                                                                                                                                          	|
+| Time        	| Agenda                                                                                                                                                   	|
+|-------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| 9.30-9.45   	| Welcome and introduction <br>                                                                                                                            	|
+| 9.45-10.30  	| **KEYNOTE - Professor Gudrun Moore (UCL) <br> The Baby Bio Bank: An international resource for genetic research into common pregnancy complications.**   	|
+| 10.30-10.50 	| Talk (TBC)                                                                                                                                               	|
+| 10.50-11.00 	| *COFFEE BREAK*                                                                                                                                           	|
+| 11.00-11.20 	| Dr Qinqin Huang (Sanger) <br> Transferability of genetic loci and polygenic scores for cardiometabolic traits in British Pakistanis and Bangladeshis     	|
+| 11.20-11.40 	| Dr Anna Gui (Birkbeck) <br> Focusing on infancy in behavioural genetics                                                                                  	|
+| 11.40-12.00 	| Dr Wikus Barkhuizen (UCL) <br> Intergenerational transmission of childhood symptoms of ADHD in the Norwegian Mother, Father and Child Cohort             	|
+| 12.00-12.20 	| Dr Kaili Rimfeld (KCL) <br> Genetics of intelligence                                                                                                     	|
+| 12.20-12.50 	| *LUNCH & ONLINE POSTER SESSION*                                                                                                                          	|
+| 12.50-1.35  	| **KEYNOTE - Dr Segun Fatumo (LSHTM) <br> African genome resource for novel gene discovery and polygenic prediction**                                     	|
+| 1.35-2.00   	| Dr Yalda Jamshidi (St Georges) <br> Disease gene identification in consanguineous populations from the Middle East                                       	|
+| 2.00-2.25   	| Dr Jonathan Coleman (KCL) <br> Considerations for psychiatric phenotyping in large-scale genetic cohort                                                  	|
+| 2.25-2.50   	| Dr Greg Findlay (Crick) <br> Assaying all Possible Variants with Saturation Genome Editing                                                               	|
+| 3.00-3.20   	| ECR Poster Awards (independent poster judging committee)                                                                                                 	|
+| 3.20-3.30   	| Closing remarks                                                                                                                                          	|
+
 
 
 <br>
@@ -95,7 +97,7 @@ Please send your video poster to <a href="mailto:londongeneticsnetwork@gmail.com
 
 For the poster competition, posters will be judged by an independent poster committee of London-based human geneticists. 
 
-Poster submission deadline: **Tuesday 23rd November 2021 at 23:59pm**
+Poster submission deadline: **Sunday 28th November 2021 at 11:59pm**
 
 
 
