@@ -25,7 +25,7 @@ After the meeting, we will have in-person social after the meeting at [UCL main 
 |-------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | 9.30-9.45   	| Welcome and introduction <br>                                                                                                                            	|
 | 9.45-10.30  	| **KEYNOTE - Professor Gudrun Moore (UCL) <br> The Baby Bio Bank: An international resource for genetic research into common pregnancy complications.**   	|
-| 10.30-10.50 	| Talk (TBC)                                                                                                                                               	|
+| 10.30-10.50 	| Mr Baihan Wang (UCL) <br> Genome-wide association testing in diverse populations: an analysis of verbal memory in the Adolescent Brain Cognitive Development Study                                                                                                                 	|
 | 10.50-11.00 	| *COFFEE BREAK*                                                                                                                                           	|
 | 11.00-11.20 	| Dr Qinqin Huang (Sanger) <br> Transferability of genetic loci and polygenic scores for cardiometabolic traits in British Pakistanis and Bangladeshis     	|
 | 11.20-11.40 	| Dr Anna Gui (Birkbeck) <br> Focusing on infancy in behavioural genetics                                                                                  	|
