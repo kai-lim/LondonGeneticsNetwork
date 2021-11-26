@@ -15,11 +15,8 @@ Registration is now open for the London Genetics Network annual meeting on Frida
 
 We are delighted to announce an amazing schedule of outstanding speakers from London institutions (see below)
 
+# Post-meeting social
 After the meeting, we will have in-person social after the meeting at [UCL main Building, North Cloisters](http://www.ucl.ac.uk/maps/north-cloisters) 4-6.30pm
-
-
-
-
 
 
 # Schedule on Friday December 3rd 2021
@@ -41,6 +38,7 @@ After the meeting, we will have in-person social after the meeting at [UCL main 
 | 2.25-2.50   	| Dr Greg Findlay (Crick) <br> Assaying all Possible Variants with Saturation Genome Editing                                                               	|
 | 3.00-3.20   	| ECR Poster Awards (independent poster judging committee)                                                                                                 	|
 | 3.20-3.30   	| Closing remarks                                                                                                                                          	|
+| 4.00-6.30   	| **In-person networking social at [UCL, North Cloisters, Main Building](https://www.ucl.ac.uk/maps/north-cloisters)**                                                             |
 
 
 
