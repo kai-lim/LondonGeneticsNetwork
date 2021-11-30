@@ -16,14 +16,14 @@ Registration is now open for the London Genetics Network annual meeting on Frida
 We are delighted to announce an amazing schedule of outstanding speakers from London institutions (see below)
 
 # Post-meeting social
-After the meeting, we will have in-person social after the meeting at [UCL main Building, North Cloisters](http://www.ucl.ac.uk/maps/north-cloisters) 4-6.30pm
+Unfortunately, in-person social after the meeting will be postponed to early 2022 due to uncertainties behind the Omnicron variant. 
 
 
 # Schedule on Friday December 3rd 2021
 
 | Time        	| Agenda                                                                                                                                                   	|
 |-------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| 9.30-9.45   	| Welcome and introduction <br>                                                                                                                            	|
+| 9.30-9.45   	| Prof Karoline Kuchenbaecker (UCL) <br> Welcome and introduction <br>                                                                                                                            	|
 | 9.45-10.30  	| **KEYNOTE - Professor Gudrun Moore (UCL) <br> The Baby Bio Bank: An international resource for genetic research into common pregnancy complications.**   	|
 | 10.30-10.50 	| Baihan Wang (UCL) <br> Genome-wide association testing in diverse populations: an analysis of verbal memory in the Adolescent Brain Cognitive Development Study                                                                                                                 	|
 | 10.50-11.00 	| *COFFEE BREAK*                                                                                                                                           	|
@@ -37,8 +37,8 @@ After the meeting, we will have in-person social after the meeting at [UCL main 
 | 2.00-2.25   	| Dr Jonathan Coleman (KCL) <br> Considerations for psychiatric phenotyping in large-scale genetic cohort                                                  	|
 | 2.25-2.50   	| Dr Greg Findlay (Crick) <br> Assaying all Possible Variants with Saturation Genome Editing                                                               	|
 | 3.00-3.20   	| ECR Poster Awards (independent poster judging committee)                                                                                                 	|
-| 3.20-3.30   	| Closing remarks                                                                                                                                          	|
-| 4.00-6.30   	| **In-person networking social at [UCL, North Cloisters, Main Building](https://www.ucl.ac.uk/maps/north-cloisters)**                                                             |
+| 3.20-3.30   	| Prof Angelica Ronald (Birkbeck) <br> Closing remarks                                                                                                                                          	|
+| 4.00-6.30   	| <s>In-person networking social</s> <br> Postponed due to uncertainties behind Omnicron variant                                                      |
 
 
 
