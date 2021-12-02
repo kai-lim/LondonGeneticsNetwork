@@ -16,7 +16,7 @@ Registration is now open for the London Genetics Network annual meeting on Frida
 We are delighted to announce an amazing schedule of outstanding speakers from London institutions (see below)
 
 # Post-meeting social
-Unfortunately, in-person social after the meeting will be postponed to early 2022 due to uncertainties behind the Omnicron variant. 
+Unfortunately, in-person social after the meeting will be postponed to early 2022 due to uncertainties of the Omnicron variant. 
 
 
 # Schedule on Friday December 3rd 2021
@@ -38,7 +38,7 @@ Unfortunately, in-person social after the meeting will be postponed to early 202
 | 2.25-2.50   	| Dr Greg Findlay (Crick) <br> Assaying all Possible Variants with Saturation Genome Editing                                                               	|
 | 3.00-3.20   	| ECR Poster Awards (independent poster judging committee)                                                                                                 	|
 | 3.20-3.30   	| Prof Angelica Ronald (Birkbeck) <br> Closing remarks                                                                                                                                          	|
-| 4.00-6.30   	| <s>In-person networking social</s> <br> Postponed due to uncertainties behind Omnicron variant                                                      |
+| 4.00-6.30   	| <s>In-person networking social</s> <br> Postponed due to uncertainties of the Omnicron variant                                                      |
 
 
 
