@@ -15,7 +15,7 @@ Registration for the London Genetics Network annual meeting on Friday December 2
 # Organising committee
 ### tba - Early Career Researcher Rep
 
-We are looking for an Early Career Researcher Rep to join us on the Organising committee. If you are interested, contact us via londongeneticsnetwork@gmail.com 
+We are looking for an Early Career Researcher Rep to join us on the Organising committee. If you are interested, contact us via <a href="mailto:londongeneticsnetwork@gmail.com</a>.
 
 ### Professor Angelica Ronald - Founder of London Genetics Network
 <p align="left">

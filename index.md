@@ -25,7 +25,7 @@ The London Genetics Network is funded by the Genetics Society and is designed fo
 
 # Join us
 
-To subscribe to our mailing list, please email the communications manager Kai Lim at: <a href="mailto:kai.lim@kcl.ac.uk">kai.lim@kcl.ac.uk</a>.
+To subscribe to our mailing list, please email us at: <a href="mailto:londongeneticsnetwork@gmail.com</a>.
 
 If you have any proposed events and/or are interested to volunteer with us, kindly drop us an email at: <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a>.
 
