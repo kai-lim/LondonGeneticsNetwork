@@ -3,7 +3,7 @@ layout: page
 title: Past Meetings
 ---
 
-## Annual Meeting 2020
+## Annual Meeting 2021
 
 The second meeting of London Genetics Network was held on 3 December 2021 featuring scientific talks and an early career research poster competition. Three carer awards that offer financial support with childcare for the meeting were also awarded.  
 
