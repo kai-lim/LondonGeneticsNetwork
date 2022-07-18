@@ -25,7 +25,7 @@ The London Genetics Network is funded by the Genetics Society and is designed fo
 
 # Join us
 
-To subscribe to our mailing list, please email us at: <a href="mailto:londongeneticsnetwork@gmail.com</a>.
+To subscribe to our mailing list, please email us at: <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a>.
 
 If you have any proposed events and/or are interested to volunteer with us, kindly drop us an email at: <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a>.
 
@@ -37,7 +37,7 @@ Follow us on twitter: [@LdnGeneNet](https://twitter.com/LdnGeneNet).
 <p align="left">
   <img src="{{ "/" | relative_url }}assets/Angelica_Ronald2.jpg" width="180" />
   </p>
-Angelica Ronald is Professor of Psychology and Genetics at Birkbeck, University of London, and director of the Genes Environment Lifespan laboratory. She co-founded the London Genetics Network in 2020 with Dr Karoline Kuchenbaecker.
+Angelica Ronald is [Professor of Psychology and Genetics at Birkbeck, University of London](https://www.bbk.ac.uk/our-staff/profile/8007129/angelica-ronald), and director of the [Genes Environment Lifespan laboratory](https://www.gel.bbk.ac.uk/). She co-founded the London Genetics Network in 2020 with Professor Karoline Kuchenbaecker.
 
 ### Professor Karoline Kuchenbaecker
 <p align="left">
@@ -51,7 +51,7 @@ Karoline Kuchenbaecker is [Professor of Genetic Epidemiology at University Colle
 <p align="left">
   <img src="{{ "/" | relative_url }}assets/Leo.jpg" width="180" />
   </p>
-  Leo is a PhD student at UCL. He studies the integenerational transmission of risk for externalizing behaviours using genetically informed methods. 
+  Leo is a PhD student in the  <a href="http://www.jeanbaptistepingault.com/people//" rel="noopener noreferrer" target="_blank">CMAP lab</a> at UCL. He studies the intergenerational transmission of risk for externalising behaviours using genetically informed methods. 
 
 <br> 
 

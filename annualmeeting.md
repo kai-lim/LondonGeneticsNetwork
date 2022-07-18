@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Annual Meeting 2022 - Details tba!
+title: Annual Meeting 2022 
 ---
 
 <p align="center">
@@ -9,32 +9,32 @@ title: Annual Meeting 2022 - Details tba!
 
 # Registration 
 
-Registration for the London Genetics Network annual meeting on Friday December 2nd 2022 will be opened soon.
+Registration for the London Genetics Network annual meeting on Friday December 2nd 2022 will be opening soon.
 
 
 # Organising committee
-### tba - Early Career Researcher Rep
-
-We are looking for an Early Career Researcher Rep to join us on the Organising committee. If you are interested, contact us via <a href="mailto:londongeneticsnetwork@gmail.com</a>.
 
 ### Professor Angelica Ronald - Founder of London Genetics Network
 <p align="left">
   <img src="{{ "/" | relative_url }}assets/Angelica_Ronald2.jpg" width="180" />
   </p>
-Angelica Ronald is Professor of Psychology and Genetics at Birkbeck, University of London, and director of the Genes Environment Lifespan laboratory. She co-founded the London Genetics Network in 2020 with Dr Karoline Kuchenbaecker.
+Angelica Ronald is [Professor of Psychology and Genetics at Birkbeck, University of London](https://www.bbk.ac.uk/our-staff/profile/8007129/angelica-ronald), and director of the [Genes Environment Lifespan laboratory](https://www.gel.bbk.ac.uk/). She co-founded the London Genetics Network in 2020 with Professor Karoline Kuchenbaecker.
 
 ### Professor Karoline Kuchenbaecker - Founder of London Genetics Network
 <p align="left">
   <img src="{{ "/" | relative_url }}assets/Karoline2.jpg" width="180" />
   </p>
-Karoline Kuchenbaecker is [Associate Professor at University College London](https://www.uclhumgen.com/people/karoline/). Her group studies the genetics of complex traits in ancestrally diverse populations.
- 
+Karoline Kuchenbaecker is [Professor of Genetic Epidemiology at University College London](https://www.uclhumgen.com/people/karoline/). Her group studies the genetics of complex traits in ancestrally diverse populations.
 
 ### Leonard Frach - Communications Manager
 <p align="left">
   <img src="{{ "/" | relative_url }}assets/Leo.jpg" width="180" />
   </p>
-  Leo is a PhD student at UCL. He studies the integenerational transmission of risk for externalizing behaviours using genetically informed methods. 
+    Leo is a PhD student in the  <a href="http://www.jeanbaptistepingault.com/people//" rel="noopener noreferrer" target="_blank">CMAP lab</a> at UCL. He studies the intergenerational transmission of risk for externalising behaviours using genetically informed methods. 
+
+### tba - Early Career Researcher Rep
+
+We are looking for an Early Career Researcher Rep to join us on the Organising committee. If you are interested, contact us via <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a>.
 
 
 # Sponsor
