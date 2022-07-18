@@ -39,19 +39,19 @@ Follow us on twitter: [@LdnGeneNet](https://twitter.com/LdnGeneNet).
   </p>
 Angelica Ronald is Professor of Psychology and Genetics at Birkbeck, University of London, and director of the Genes Environment Lifespan laboratory. She co-founded the London Genetics Network in 2020 with Dr Karoline Kuchenbaecker.
 
-### Dr. Karoline Kuchenbaecker
+### Professor Karoline Kuchenbaecker
 <p align="left">
   <img src="{{ "/" | relative_url }}assets/Karoline2.jpg" width="180" />
   </p>
-Karoline Kuchenbaecker is [Associate Professor at University College London](https://www.uclhumgen.com/people/karoline/). Her group studies the genetics of complex traits in ancestrally diverse populations.
+Karoline Kuchenbaecker is [Professor of Genetic Epidemiology at University College London](https://www.uclhumgen.com/people/karoline/). Her group studies the genetics of complex traits in ancestrally diverse populations.
  
 
 # Communications Manager
-### Kai Xiang Lim
+### Leonard Frach
 <p align="left">
-  <img src="{{ "/" | relative_url }}assets/Kai_square.jpeg" width="180" />
+  <img src="{{ "/" | relative_url }}assets/Leo.jpg" width="180" />
   </p>
-  Kai is a PhD student at King's College London. He studies the aetiology of self-harm using genetically informed methods. 
+  Leo is a PhD student at UCL. He studies the integenerational transmission of risk for externalizing behaviours using genetically informed methods. 
 
 <br> 
 
