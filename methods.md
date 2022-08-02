@@ -2,7 +2,8 @@
 layout: page
 title: Methods Meetings
 ---
-<p align="center">
+
+<p align="left">
   <img src="{{ "/" | relative_url }}assets/meeting-2.jpg" width="100%" style="margin: 0px 20px"/>
   </p>
   

@@ -21,7 +21,7 @@ Karoline Kuchenbaecker is <a href="https://www.uclhumgen.com/people/karoline/" r
 
 ### Leonard Frach
 <p align="left">
-  <img src="{{ "/" | relative_url }}assets/Leo.jpeg" width="180" />
+  <img src="{{ "/" | relative_url }}assets/Leo.jpg" width="180" />
   </p>
 Leo is a PhD student in the <a href="http://www.jeanbaptistepingault.com/people/" rel="noopener noreferrer" target="_blank">CMAP lab</a> at UCL. He studies the intergenerational transmission of risk for externalising behaviours using genetically informed methods.
 
