@@ -12,7 +12,7 @@ title: Annual Meeting 2022
 Registration for the London Genetics Network annual meeting on Friday December 2nd 2022 will be opening soon.
 
 
-# Organising committee
+# Organising Committee
 
 ### Professor Angelica Ronald - Founder of London Genetics Network
 <p align="left">
