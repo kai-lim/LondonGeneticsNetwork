@@ -26,10 +26,20 @@ Karoline Kuchenbaecker is <a href="https://www.uclhumgen.com/people/karoline/" r
 Leo is a PhD student in the <a href="http://www.jeanbaptistepingault.com/people/" rel="noopener noreferrer" target="_blank">CMAP lab</a> at UCL. He studies the intergenerational transmission of risk for externalising behaviours using genetically informed methods.
 
 # Early Career Researcher Rep
-We have the opportunity for an Early Career Researcher Rep to join us on the Organising committee. If you are interested, contact us via <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork\@gmail.com</a>.
+
+We have the opportunity for another Early Career Researcher Rep to join us on the Organising committee. If you are interested, contact us via <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a>.
+
+# 2022 Annual Meeting Organising Committee Member
+
+### Dr Valentina Cipriani
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/ValentinaCipriani.jpg" width="180" />
+  </p>
+Dr Valentina Cipriani is a Lecturer in Statistical Genomics at the <a href="https://www.qmul.ac.uk/whri/people/academic-staff/items/ciprianivalentina.html" rel="noopener noreferrer" target="_blank">William Harvey Research Institute (QMUL).</a>
+Her research aims to help elucidate the genetic determinants of both common complex and rare Mendelian human diseases by using cutting-edge computational tools in genotyping and sequencing association studies.
 
 # Methods Meetings Organisers
-We have the opportunity for people to organise the monthly Methods meetings. Tasks include moderating sessions, inviting speakers and suggesting/presenting papers in the journal club sessions. For more infos see <a href="Methods Meetings">Methods Meetings </a>. If you are interested, contact us via <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork\@gmail.com</a>.
+We have the opportunity for people to organise the monthly Methods meetings. Tasks include moderating sessions, inviting speakers and suggesting/presenting papers in the journal club sessions. For more infos see <a href="https://www.londongeneticsnetwork.com/methods/">Methods Meetings </a>. If you are interested, contact us via <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a>.
 
 <br>
 
@@ -42,8 +52,6 @@ Dr Ryan Arathimos, King's College London - Early Career Researcher Rep 2021
 Chloe Austerberry, University College London - Early Career Researcher Rep 2020
 
 Aislinn Bowler, Birkbeck College, University of London - Early Career Researcher Rep 2020
-
-Dr Valentina Cipriani, Queen Mary University of London - Early Career Researcher Rep 2020
 
 Professor Thalia Eley, King's College London - Grant Writing Workshop Speaker 2021
 
