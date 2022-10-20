@@ -39,7 +39,7 @@ Dr Valentina Cipriani is a Lecturer in Statistical Genomics at the <a href="http
 Her research aims to help elucidate the genetic determinants of both common complex and rare Mendelian human diseases by using cutting-edge computational tools in genotyping and sequencing association studies.
 
 # Methods Meetings Organisers
-We have the opportunity for people to organise the monthly Methods meetings. Tasks include moderating sessions, inviting speakers and suggesting/presenting papers in the journal club sessions. For more infos see <a href="https://www.londongeneticsnetwork.com/methods/">Methods Meetings </a>. If you are interested, contact us via <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a>.
+We have the opportunity for people to organise the monthly Methods meetings. Tasks include moderating sessions, inviting speakers and suggesting/presenting papers in the journal club sessions. For more infos see <a href="https://www.londongeneticsnetwork.com/methods/">Methods Meetings</a>. If you are interested, contact us via <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a>.
 
 <br>
 

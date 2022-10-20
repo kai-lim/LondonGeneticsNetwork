@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Annual Meeting 2022 
+title: Annual Meeting 2022 - Register now!
 ---
 
 <p align="center">
@@ -9,10 +9,82 @@ title: Annual Meeting 2022
 
 # Registration 
 
-Registration for the London Genetics Network annual meeting on Friday December 2nd 2022 will be opening soon.
+Registration is now open for the London Genetics Network annual meeting on Friday December 3rd 2021 (online).
+
+## [Click here to register on Eventbrite](UPDATE link)
+
+We are delighted to announce an amazing schedule of outstanding speakers from London institutions (see below)
+
+# Post-meeting social
+The post-meeting social will start at 5.15pm at Marlborough Arms.
 
 
-# Organising Committee
+# Schedule on Friday December 2nd 2022
+
+| Time        	| Agenda                                                                                                                                                   	|
+|-------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| 9.30-9.45   	| Professor Angelica Ronald (Birkbeck; LGN Co-founder) <br> Welcome and Introductory Remarks   |
+| 9.45-10.30  	| **KEYNOTE - Professor Robert Plomin (KCL) <br> The next 10 years of behavioural genomic research.** |
+| 10.30-10.50 	| Dr Nikolas Pontikos (UCL) <br> Genetics of rare eye diseases. |
+| 10.50-11.20 	| *COFFEE BREAK* <br> Rooms 252/253/254 (second floor)  |
+| 11.20-11.40 	| Dr Jamie Ellingford (Genomics England) <br> Interpreting variation in the non-coding genome for rare disease diagnostics.    |
+| 11.40-12.00 	| Amy Chu (UCL) <br> The genetics of ageing in ancestrally diverse populations.    |
+| 12.00-12.20 	| Dr Emma Magavern (QMUL) <br> Pharmacogenomics insights from a British-South Asian Cohort.     |
+| 12.20-1.15 	| *LUNCH BREAK* <br> Rooms 252/253/254 (second floor)  |
+| 1.15-2.00  	| **KEYNOTE - Professor Marta Korbonits (QMUL) <br> Genes and giants – what do we know of the genetics of familial pituitary tumours.**   |
+| 2.00-2.45   	| ECRs from the London Genetics Network <br> ECR FLASH TALKS |
+| 2.45-3.15 	| *COFFEE BREAK* <br> Rooms 252/253/254 (second floor)  |
+| 3.15-3.35   	| Dr Chloe Austerberry (Birkbeck/UCL) <br> tbc.   |
+| 3.35-3.55   	| Prof Patricia Munroe (QMUL) <br> tbc. |
+| 3.55-4.15   	| Dr Tom McAdams (KCL) <br> tbc. |
+| 4.15-4.35     | Dr Neil Davies (UCL) <br> tbc. |
+| 4.35-4.50   	| Prof Damian Smedley (QMUL); Prof Cathy Fernandes (KCL); Dr Emma Meaburn (Birkbeck) <br> ECR Flash Talk awards from Flash Talk awarding committee   |
+| 4.50-5.00   	| Professor Karoline Kuchenbaecker (UCL; LGN Co-founder) <br> Closing remarks    |
+| 5.00-7.00   	| *Network social drinks*. <br> Malborough Arms |
+
+
+<br>
+
+# Flash Talks invitation
+
+The London Genetics Network invites Early Career Researchers (ECRs) to submit for a flash talk presentation during the Annual Meeting 2022. Academics affiliated with an institution based in London or the surrounding areas are eligible to submit for the meeting. 
+There will be two flash talk prizes in Complex and Rare Genetic Diseases for ECRs. The duration for each presentation will be 3 minutes including a maximum of two slides. 
+Please send your submission for either Complex or Rare Genetic Diseases (Title, Presenter, Institution, Abstract maximum 500 words) to londongeneticsnetwork@gmail.com by **Thursday 17 November 22 5:00pm.**
+ 
+<p align="center">
+  <img src="{{ "/" | relative_url }}assets/3_Prizes.jpg" width="100%" style="margin: 0px 0px"/>
+  </p>
+
+
+# Conference Care Fund 
+
+The London Genetics Network invites applications for a Conference Care Fund for the Annual Meeting 2022. Please find details below.
+
+## Eligibility criteria: 
+- I currently work PT/FT in human genetics research in London/the surrounding areas
+- I have caring costs of a dependent eg payment to a childminder, nursery or care provider for care outside of usual arrangements or I require travel costs for the dependent or I require a carer to travel with me
+- I will be attending the LGN 2022 annual meeting in person
+- I would like to receive financial support through the Genetics Society Conference Care Fund
+- I accept that the funds will be allocated randomly to three eligible researchers
+- The Conference Care Fund of £90 will go towards costs for caring responsibilities that would be incurred to enable attendance on December 2nd 2022
+- I acknowledge that successful applicants will be given funds following attendance at the meeting (i.e. after 2nd December)
+
+If you meet the eligibility criteria and would like to apply, please send the following information to londongeneticsnetwork@gmail.com
+1.    Full name and title
+2.    Institution
+3.    Position (e.g. PhD student/Postdoc/Lecturer)
+4.    The following sentence: “I confirm that I meet the eligibility criteria for the Conference Care Fund”
+and
+“I agree for my name to be announced as a recipient of the Conference Care Fund at the meeting”
+or
+“I do not agree for my name to be announced as a recipient of the Conference Care Fund at the meeting”.
+
+Please send your submission to londongeneticsnetwork@gmail.com by **Friday 25 November 22 5:00pm.**
+ 
+We look forward to seeing you at the meeting! 
+
+
+# Organising committee
 
 ### Professor Angelica Ronald - Founder of London Genetics Network
 <p align="left">
@@ -39,14 +111,17 @@ Leo is a PhD student in the <a href="http://www.jeanbaptistepingault.com/people/
 Dr Valentina Cipriani is a Lecturer in Statistical Genomics at the <a href="https://www.qmul.ac.uk/whri/people/academic-staff/items/ciprianivalentina.html" rel="noopener noreferrer" target="_blank">William Harvey Research Institute (QMUL).</a>
 Her research aims to help elucidate the genetic determinants of both common complex and rare Mendelian human diseases by using cutting-edge computational tools in genotyping and sequencing association studies.
 
-### tba - Early Career Researcher Rep
-
-We are looking for an Early Career Researcher Rep to join us on the Organising committee. If you are interested, contact us via <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a>.
-
+### Dr Eirini Marouli - Early Career Researcher Rep
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/Eirini_Marouli_photo2_s.jpg" width="180" />
+  </p>
+Dr Marouli is a Senior Lecturer in Computational Biology at the <a href="https://www.qmul.ac.uk/whri/people/academic-staff/items/maroulieirini.html" rel="noopener noreferrer" target="_blank">>William Harvey Research Institute (QMUL).</a>
+Her research interests lie in the interface of genetics, bioinformatics and artificial intelligence. She has leading work in international consortia, working on cutting-edge research on the genetics of complex traits and disease, thyroid function and thyroid cancer.
+  
 
 # Sponsor
 
-London Genetics Network is a Special Interest group funded by <a href="https://genetics.org.uk" rel="noopener noreferrer" target="_blank">The Genetics Society</a>.
+London Genetics Network is a Special Interest group funded by [The Genetics Society](https://genetics.org.uk)
 
 <p align="center">
   <img src="{{ "/" | relative_url }}assets/GS_logo_rescaled.png" width="380" /> <br><br><br>
