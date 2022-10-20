@@ -27,7 +27,12 @@ Leo is a PhD student in the <a href="http://www.jeanbaptistepingault.com/people/
 
 # Early Career Researcher Rep
 
-We have the opportunity for another Early Career Researcher Rep to join us on the Organising committee. If you are interested, contact us via <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a>.
+### Dr Eirini Marouli
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/Eirini_Marouli_photo2_s.jpg" width="180" />
+  </p>
+Dr Marouli is a Senior Lecturer in Computational Biology at the <a href="https://www.qmul.ac.uk/whri/people/academic-staff/items/maroulieirini.html" rel="noopener noreferrer" target="_blank">>William Harvey Research Institute (QMUL).</a>
+Her research interests lie in the interface of genetics, bioinformatics and artificial intelligence. She has leading work in international consortia, working on cutting-edge research on the genetics of complex traits and disease, thyroid function and thyroid cancer.
 
 # 2022 Annual Meeting Organising Committee Member
 

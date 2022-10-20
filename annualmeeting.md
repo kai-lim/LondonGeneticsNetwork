@@ -9,9 +9,9 @@ title: Annual Meeting 2022 - Register now!
 
 # Registration 
 
-Registration is now open for the London Genetics Network annual meeting on Friday December 3rd 2021 (online).
+Registration is now open for the London Genetics Network annual meeting on **Friday December 2nd 2022**.
 
-## [Click here to register on Eventbrite](UPDATE link)
+## [Click here to register on Eventbrite](https://www.eventbrite.com/e/london-genetics-network-annual-meeting-tickets-438940742577)
 
 We are delighted to announce an amazing schedule of outstanding speakers from London institutions (see below)
 
@@ -34,9 +34,9 @@ The post-meeting social will start at 5.15pm at Marlborough Arms.
 | 1.15-2.00  	| **KEYNOTE - Professor Marta Korbonits (QMUL) <br> Genes and giants – what do we know of the genetics of familial pituitary tumours.**   |
 | 2.00-2.45   	| ECRs from the London Genetics Network <br> ECR FLASH TALKS |
 | 2.45-3.15 	| *COFFEE BREAK* <br> Rooms 252/253/254 (second floor)  |
-| 3.15-3.35   	| Dr Chloe Austerberry (Birkbeck/UCL) <br> tbc.   |
+| 3.15-3.35   	| Dr Chloe Austerberry (Birkbeck/UCL) <br> Do children’s education-associated genetics predict the parenting they receive? |
 | 3.35-3.55   	| Prof Patricia Munroe (QMUL) <br> tbc. |
-| 3.55-4.15   	| Dr Tom McAdams (KCL) <br> tbc. |
+| 3.55-4.15   	| Dr Tom McAdams (KCL) <br> Towards a Deeper Understanding of Nature and Nurture: Combining Family-Based Quasi Experimental Methods with Genomic Data.  |
 | 4.15-4.35     | Dr Neil Davies (UCL) <br> tbc. |
 | 4.35-4.50   	| Prof Damian Smedley (QMUL); Prof Cathy Fernandes (KCL); Dr Emma Meaburn (Birkbeck) <br> ECR Flash Talk awards from Flash Talk awarding committee   |
 | 4.50-5.00   	| Professor Karoline Kuchenbaecker (UCL; LGN Co-founder) <br> Closing remarks    |
