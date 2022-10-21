@@ -16,7 +16,7 @@ Registration is now open for the London Genetics Network annual meeting on **Fri
 We are delighted to announce an amazing schedule of outstanding speakers from London institutions (see below)
 
 # Post-meeting social
-The post-meeting social will start at 5.15pm at Marlborough Arms.
+The post-meeting social will start at 5.15pm.
 
 
 # Schedule on Friday December 2nd 2022
