@@ -52,17 +52,17 @@ There will be two flash talk prizes for presentations on genetic research on com
 Please send your submission for either Complex Traits or Rare Diseases (Title, Presenter, Institution, Abstract maximum 500 words) to londongeneticsnetwork@gmail.com by **Thursday 17 November 22 5:00pm.**
  
 
-# Conference Carer Fund 
+# Conference Care Fund 
 
-The London Genetics Network invites applications for a Conference Carer Fund for the Annual Meeting 2022 (funding for 3 applications available). Please find details below.
+The London Genetics Network invites applications for a Conference Care Fund for the Annual Meeting 2022 (funding for 3 applications available). Please find details below.
 
 ## Eligibility criteria: 
 - I currently work PT/FT in human genetics research in London/the surrounding areas
-- I have caring costs of a dependent eg payment to a childminder, nursery or care provider for care outside of usual arrangements or I require travel costs for the dependent or I require a carer to travel with me
+- I have caring costs of a dependent eg payment to a childminder, nursery or Care provider for care outside of usual arrangements or I require travel costs for the dependent or I require a care to travel with me
 - I will be attending the LGN 2022 annual meeting in person
-- I would like to receive financial support through the Genetics Society Conference Carer Fund
+- I would like to receive financial support through the Genetics Society Conference Care Fund
 - I accept that the funds will be allocated randomly to three eligible researchers
-- The Conference Carer Fund of £90 will go towards costs for caring responsibilities that would be incurred to enable attendance on December 2nd 2022
+- The Conference Care Fund of £90 will go towards costs for caring responsibilities that would be incurred to enable attendance on December 2nd 2022
 - I acknowledge that successful applicants will be given funds following attendance at the meeting (i.e. after 2nd December)
 
 If you meet the eligibility criteria and would like to apply, please send the following information to londongeneticsnetwork@gmail.com
@@ -70,11 +70,11 @@ If you meet the eligibility criteria and would like to apply, please send the fo
 2.    Institution
 3.    Position (e.g. PhD student/Postdoc/Lecturer)
 4.    Brief description of caregiving situation and justification of the need for this fund (max 300 words).
-5.    The following sentence: “I confirm that I meet the eligibility criteria for the Conference Carer Fund”
+5.    The following sentence: “I confirm that I meet the eligibility criteria for the Conference Care Fund”
 and
 “I agree for my name to be announced as a recipient of the Conference Care Fund at the meeting”
 or
-“I do not agree for my name to be announced as a recipient of the Conference Carer Fund at the meeting”.
+“I do not agree for my name to be announced as a recipient of the Conference Care Fund at the meeting”.
 
 Please send your submission to londongeneticsnetwork@gmail.com by **Friday 25 November 22 5:00pm.**
  
