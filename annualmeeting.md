@@ -40,7 +40,7 @@ The post-meeting social will start at 5.15pm at Marlborough Arms.
 | 4.15-4.35     | Dr Neil Davies (UCL) <br> Within-sibship genome-wide association analyses decrease bias in estimates of direct genetic effects    |
 | 4.35-4.50   	| Prof Damian Smedley (QMUL); Prof Cathy Fernandes (KCL); Dr Emma Meaburn (Birkbeck) <br> ECR Flash Talk awards from Flash Talk awarding committee   |
 | 4.50-5.00   	| Professor Karoline Kuchenbaecker (UCL; LGN Co-founder) <br> Closing remarks    |
-| 5.00-7.00   	| *Network social drinks*. <br> Marlborough Arms |
+| 5.00-7.00   	| *Network social drinks*   |
 
 
 <br>
