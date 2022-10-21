@@ -30,8 +30,9 @@ The post-meeting social will start at 5.15pm at Marlborough Arms.
 | 11.20-11.40 	| Dr Jamie Ellingford (Genomics England) <br> Interpreting variation in the non-coding genome for rare disease diagnostics    |
 | 11.40-12.00 	| Amy Chu (UCL) <br> The genetics of ageing in ancestrally diverse populations.    |
 | 12.00-12.20 	| Dr Emma Magavern (QMUL) <br> Pharmacogenomics insights from a British-South Asian Cohort.     |
-| 12.20-1.15 	| *LUNCH BREAK* <br> Rooms 252/253/254 (second floor)  |
-| 1.15-2.00  	| **KEYNOTE - Professor Marta Korbonits (QMUL) <br> Genes and giants – what do we know of the genetics of familial pituitary tumours**   |
+| 12.20-1.10 	| *LUNCH BREAK* <br> Rooms 252/253/254 (second floor)  |
+| 1.10-1.20     | Dr Valentina Cipriani (QMUL; LGN Meeting committee member) <br> Afternoon introduction and rare disease genetics   |
+| 1.20-2.00  	| **KEYNOTE - Professor Marta Korbonits (QMUL) <br> Genes and giants – what do we know of the genetics of familial pituitary tumours**   |
 | 2.00-2.45   	| ECRs from the London Genetics Network <br> ECR FLASH TALKS |
 | 2.45-3.15 	| *COFFEE BREAK* <br> Rooms 252/253/254 (second floor)  |
 | 3.15-3.35   	| Dr Chloe Austerberry (Birkbeck/UCL) <br> Do children’s education-associated genetics predict the parenting they receive? |
