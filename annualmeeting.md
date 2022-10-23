@@ -106,7 +106,7 @@ Leo is a PhD student in the <a href="http://www.jeanbaptistepingault.com/people/
 <p align="left">
   <img src="{{ "/" | relative_url }}assets/ValentinaCipriani.jpg" width="180" />
   </p>
-Dr Valentina Cipriani is a Lecturer in Statistical Genomics at the <a href="https://www.qmul.ac.uk/whri/people/academic-staff/items/ciprianivalentina.html" rel="noopener noreferrer" target="_blank">William Harvey Research Institute (QMUL).</a>
+Dr Valentina Cipriani is a Senior Lecturer in Statistical Genomics at the <a href="https://www.qmul.ac.uk/whri/people/academic-staff/items/ciprianivalentina.html" rel="noopener noreferrer" target="_blank">William Harvey Research Institute (QMUL).</a>
 Her research aims to help elucidate the genetic determinants of both common complex and rare Mendelian human diseases by using cutting-edge computational tools in genotyping and sequencing association studies.
 
 ### Dr Eirini Marouli - Early Career Researcher Rep
