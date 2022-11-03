@@ -52,7 +52,11 @@ The London Genetics Network invites Early Career Researchers (ECRs) to submit fo
 There will be two flash talk prizes for presentations on genetic research on complex traits and rare diseases for ECRs. The duration for each presentation will be 3 minutes including a maximum of two slides. 
 Please send your submission for either Complex Traits or Rare Diseases (Title, Presenter, Institution, Abstract maximum 500 words) to londongeneticsnetwork@gmail.com by **Thursday 17 November 22 5:00pm.**
  
-
+<p align="center">
+  <img src="{{ "/" | relative_url }}assets/prizes2022.jpeg" width="100%" style="margin: 0px 0px"/>
+  </p>
+  
+  
 # Conference Care Fund 
 
 The London Genetics Network invites applications for a Conference Care Fund for the Annual Meeting 2022 (funding for 3 applications available). Please find details below.
