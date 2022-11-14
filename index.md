@@ -5,12 +5,12 @@ title: London Genetics Network
 
 
 [//]: # ![LGN logo]({{ "/" | relative_url }}assets/LGN_logo_rescaled.jpg) 
-[//]: # ![GS logo]({{ "/" | relative_url }}assets/GS_logo_rescaled.png)
+[//]: # ![GS logo]({{ "/" | relative_url }}assets/GS LogoFCOL-01.png)
 
   <br>
   <br>
 <p align="center">
-  <img src="{{ "/" | relative_url }}assets/GS_logo_rescaled.png" width="380" /> <br><br><br>
+  <img src="{{ "/" | relative_url }}assets/GS LogoFCOL-01.png" width="380" /> <br><br><br>
   <img src="{{ "/" | relative_url }}assets/LGNLogo_new.jpg" width="380" />
 </p>
 

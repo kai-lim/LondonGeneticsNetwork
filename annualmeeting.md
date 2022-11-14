@@ -23,6 +23,7 @@ The post-meeting social will start at 5.15pm.
 
 | Time        	| Agenda                                                                                                                                                   	|
 |-------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| 9.15-9.30   	| *Registration*  |
 | 9.30-9.45   	| Professor Angelica Ronald (Birkbeck; LGN Co-founder) <br> Welcome and Introductory Remarks   |
 | 9.45-10.30  	| **KEYNOTE - Professor Robert Plomin (KCL) <br> The next 10 years of behavioural genomic research** |
 | 10.30-10.50 	| Dr Nikolas Pontikos (UCL) <br> Genetics of rare eye diseases |
@@ -50,7 +51,7 @@ The post-meeting social will start at 5.15pm.
 
 The London Genetics Network invites Early Career Researchers (ECRs) to submit for a flash talk presentation during the Annual Meeting 2022. Academics affiliated with an institution based in London or the surrounding areas are eligible to submit for the meeting. 
 There will be two flash talk prizes for presentations on genetic research on complex traits and rare diseases for ECRs. The duration for each presentation will be 3 minutes including a maximum of two slides. 
-Please send your submission for either Complex Traits or Rare Diseases (Title, Presenter, Institution, Abstract maximum 500 words) to londongeneticsnetwork@gmail.com by **Thursday 17 November 22 5:00pm.**
+Please send your submission for either Complex Traits or Rare Diseases (Title, Presenter, Institution, Abstract maximum 500 words) to <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a> by **Thursday 17 November 22 5:00pm.**
  
 <p align="center">
   <img src="{{ "/" | relative_url }}assets/prizes2022.jpeg" width="100%" style="margin: 0px 0px"/>
@@ -81,7 +82,7 @@ and
 or
 “I do not agree for my name to be announced as a recipient of the Conference Care Fund at the meeting”.
 
-Please send your submission to londongeneticsnetwork@gmail.com by **Friday 25 November 22 5:00pm.**
+Please send your submission to <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a> by **Friday 25 November 22 5:00pm.**
  
 We look forward to seeing you at the meeting! 
 
@@ -126,6 +127,6 @@ Her research interests lie in the interface of genetics, bioinformatics and arti
 London Genetics Network is a Special Interest group funded by [The Genetics Society](https://genetics.org.uk)
 
 <p align="center">
-  <img src="{{ "/" | relative_url }}assets/GS_logo_rescaled.png" width="380" /> <br><br><br>
+  <img src="{{ "/" | relative_url }}assets/GS LogoFCOL-01.png" width="380" /> <br><br><br>
   <img src="{{ "/" | relative_url }}assets/LGNLogo_new.jpg" width="380" />
 </p>

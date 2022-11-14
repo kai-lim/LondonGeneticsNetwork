@@ -9,13 +9,13 @@ permalink:   pretty
 title:       London Genetics Network
 tagline:     ''
 description: ''
-url:         https://kai-lim.github.io/London_GenNet/
+url:         https://github.com/LdnGeneNet/LondonGeneticsNetwork/
 baseurl:     /
-lastmod:    '03 November 2022'
+lastmod:    '14 November 2022'
 
 author:
   name:      'London Genetics Network'
-  url:       https://kai-lim.github.io/London_GenNet/
+  url:       https://github.com/LdnGeneNet/LondonGeneticsNetwork/
   email:     londongeneticsnetwork@gmail.com
   twitter: LdnGeneNet
 
