@@ -23,3 +23,7 @@ gem 'jekyll-paginate-v2'
 
 
 gem "webrick", "~> 1.7"
+gem "tzinfo", "~> 1.2.10"
+gem "commonmarker", "~> 0.23.6"
+gem "nokogiri", "~> 1.13.9"
+gem "activesupport", "~> 6.1.7.1"
